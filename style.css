@@ -10,6 +10,8 @@ font-weight: 900;
 
 section{
     display: flex;
+    background-image:url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
 .abc img{
     width: 80%;
@@ -35,4 +37,8 @@ section{
 }
 span{
     color:rgb(241, 72, 10);
+}
+body{
+    font-family:'poppins',sans-serif;
+    margin: 0;
 }
